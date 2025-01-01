@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 export default {
   presets: [
     ['@babel/preset-env', {
@@ -6,4 +7,14 @@ export default {
       }
     }]
   ]
+=======
+export default {
+  presets: [
+    ['@babel/preset-env', {
+      targets: {
+        node: 'current'
+      }
+    }]
+  ]
+>>>>>>> master
 }; 

@@ -1,0 +1,12 @@
+{
+  "name": "sniffly-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for Sniffly symptom tracking app",
+  "scripts": {
+    "start": "http-server -p 8080 -c-1"
+  },
+  "dependencies": {
+    "http-server": "^14.1.1",
+    "leaflet": "^1.9.4"
+  }
+} 

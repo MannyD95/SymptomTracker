@@ -1,6 +1,8 @@
 # MySymptomTracker
 
 A web application for tracking and monitoring personal health symptoms over time, featuring a user-friendly dashboard with calendar integration and map visualization capabilities.
+The Current version is a more barebones version of the app. There are a select handful of symptoms that are tracked, and there is no user profile page as of yet that allows for making changes to details such as location, email, etc.
+Future versions beyond this MVP will include a user profile page, more symptoms, considerations for bridging users to doctors or other users, and a mobile app.
 
 ## Features
 
@@ -35,7 +37,7 @@ A web application for tracking and monitoring personal health symptoms over time
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/MySymptomTracker.git
+git clone https://github.com/MannyD95/SymptomTracker.git
 cd MySymptomTracker
 ```
 
