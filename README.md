@@ -8,8 +8,8 @@ Future versions beyond this MVP will include a user profile page, more symptoms,
 
 - User authentication (register/login)
 - Interactive dashboard for symptom tracking
-- Calendar-based symptom visualization
-- Geographic symptom mapping using Leaflet.js
+- Calendar-based symptom history
+- Geographic mapping using Leaflet.js
 - Secure API with rate limiting
 - Multi-environment support (development, test, production)
 
@@ -18,9 +18,9 @@ Future versions beyond this MVP will include a user profile page, more symptoms,
 ### Frontend
 - HTML5, CSS3, JavaScript (Vanilla)
 - Leaflet.js for map integration
-- Node.js with http-server for development
 
 ### Backend
+- Node.js with http-server for development
 - Express.js RESTful API
 - PostgreSQL database
 - Sequelize ORM
