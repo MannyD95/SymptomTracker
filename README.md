@@ -1,5 +1,7 @@
 # MySymptomTracker
 
+https://github.com/user-attachments/assets/e26a41cf-4b99-4eb5-bfc7-6eae947ee83d
+
 A web application for tracking and monitoring personal health symptoms over time, featuring a user-friendly dashboard with calendar integration and map visualization capabilities.
 The Current version is a more barebones version of the app. There are a select handful of symptoms that are tracked, and there is no user profile page as of yet that allows for making changes to details such as location, email, etc.
 Future versions beyond this MVP will include a user profile page, more symptoms, considerations for bridging users to doctors or other users, and a mobile app.
